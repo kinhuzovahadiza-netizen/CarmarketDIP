@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.300f1aba.css",
-    "main.js": "/static/js/main.20e18862.js",
-    "static/js/453.9cf75b82.chunk.js": "/static/js/453.9cf75b82.chunk.js",
-    "index.html": "/index.html",
-    "main.300f1aba.css.map": "/static/css/main.300f1aba.css.map",
-    "main.20e18862.js.map": "/static/js/main.20e18862.js.map",
-    "453.9cf75b82.chunk.js.map": "/static/js/453.9cf75b82.chunk.js.map"
+    "main.css": "/CarmarketDIP/static/css/main.300f1aba.css",
+    "main.js": "/CarmarketDIP/static/js/main.ff26fef6.js",
+    "static/js/453.9cf75b82.chunk.js": "/CarmarketDIP/static/js/453.9cf75b82.chunk.js",
+    "index.html": "/CarmarketDIP/index.html",
+    "main.300f1aba.css.map": "/CarmarketDIP/static/css/main.300f1aba.css.map",
+    "main.ff26fef6.js.map": "/CarmarketDIP/static/js/main.ff26fef6.js.map",
+    "453.9cf75b82.chunk.js.map": "/CarmarketDIP/static/js/453.9cf75b82.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.300f1aba.css",
-    "static/js/main.20e18862.js"
+    "static/js/main.ff26fef6.js"
   ]
 }
